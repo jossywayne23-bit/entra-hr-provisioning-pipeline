@@ -1,0 +1,17 @@
+Category,DisplayName,UPN,Department,Enabled,UserType,EmployeeId,Created
+Already disabled,First Name,First.name@example.com,HR,FALSE,Member,,6/12/2026 3:22
+Already disabled,First Name,First.name@example.com,Marketing,FALSE,Member,,9/2/2026 20:19
+Already disabled,First Name,First.name@example.com,Sales,FALSE,Member,,9/2/2026 20:25
+Already disabled,First Name,First.name@example.com,Marketing,FALSE,Member,,6/13/2026 5:48
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,HR,TRUE,Member,,9/8/2026 17:48
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Finance,TRUE,Member,,8/18/2026 20:42
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,IT,TRUE,Member,,6/27/2026 7:05
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Sales,TRUE,Member,,9/7/2026 22:15
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,IT,TRUE,Member,,6/13/2026 5:51
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Sales,TRUE,Member,,8/30/2026 6:40
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,IT,TRUE,Member,,6/12/2026 2:12
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Finance,TRUE,Member,,6/13/2026 5:50
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,IT,TRUE,Member,,6/13/2026 5:53
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Marketing,TRUE,Member,,6/13/2026 5:53
+"ENABLED, NO HR RECORD - investigate",First Name,First.name@example.com,Operations,TRUE,Member,,9/11/2026 3:58
+Guest / external,First Name,First.name@example.com,IT,TRUE,Guest,,8/10/2026 13:38
